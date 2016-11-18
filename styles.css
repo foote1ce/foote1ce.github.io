@@ -24,7 +24,7 @@ html, body {
 }
 .parent-menu-items {
     color: white;  
-    border: outside;
+    border: 1px solid black;
 }
 .parent-menu-items a {
     display: inline-block;
