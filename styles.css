@@ -32,8 +32,8 @@ html, body {
     padding: 0px;
 }
 .parent-menu-items a:hover {
-    background-color: white;
-    color: black;
+    background-color: #606060;
+
 }
 .parent-menu-items a:link {
     color: white;
