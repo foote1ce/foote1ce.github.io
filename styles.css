@@ -23,7 +23,8 @@ html, body {
 
 }
 .parent-menu-items {
-    color: white;   
+    color: white;  
+    border: outside;
 }
 .parent-menu-items a {
     display: inline-block;
