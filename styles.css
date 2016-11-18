@@ -29,7 +29,7 @@ html, body {
 }
 .parent-menu-items a {
     display: inline-block;
-    padding: 0px;
+    padding: 30px 30px;
 }
 .parent-menu-items a:hover {
     background-color: #606060;
