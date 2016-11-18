@@ -19,7 +19,12 @@ html, body {
     background: #757575;
 }
 .parent-menu {
-    
+    list-style: none;
+    margin: 0 0 0 0;
+    text-align: right;
+    padding: 0;
+    font-size: 20px;
+    overflow-y: auto;
 }
 .parent-menu-items {
     color: white;   
