@@ -38,6 +38,9 @@ html, body {
     color: white;
     text-decoration: none;
 }
+.parent-menu-items a:visited {
+    color: white;
+}
 
 
 /* Content stylings; */
