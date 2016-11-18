@@ -28,8 +28,8 @@ html, body {
 
 }
 .parent-menu-items a {
-    display: inline-block;
-    padding-left: 50%;
+    display: block;
+
 }
 .parent-menu-items a:hover {
     background-color: #606060;
