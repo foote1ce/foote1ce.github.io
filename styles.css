@@ -22,8 +22,7 @@ html, body {
     font-size: 20px;
     
 }
-.parent-menu-items {
-    color: white;  
+.parent-menu-items {  
     border: 1px solid black;
     display: inline-block;
 }
