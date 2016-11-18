@@ -33,6 +33,10 @@ html, body {
     background-color: white;
     color: black;
 }
+.parent-menu-items a:link {
+    color: white;
+    text-decoration: none;
+}
 
 
 /* Content stylings; */
