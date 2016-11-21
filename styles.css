@@ -53,6 +53,15 @@ html, body {
     font-family: sans-serif;
     display: none;
 }
+.sub-menu-items {  
+    border: 1px solid black;
+    border-top: none;
+
+}
+.sub-menu-items:first-child {  
+    border-top: 1px solid black;
+
+}
 /* Content stylings; */
 #content-body {
     width: 80%;
