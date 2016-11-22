@@ -4,6 +4,12 @@ html, body {
     font-size: 20px;
     z-index: -1;
 }
+#content-body {
+    height: 100%;
+    margin: 0;
+    font-size: 20px;
+    z-index: -1;
+}
 
 /* Side-menu Stylings; */
 #left-menu {
