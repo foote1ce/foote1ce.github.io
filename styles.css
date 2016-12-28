@@ -38,7 +38,7 @@ html, body {
 
 }
 .parent-menu-items:hover .sub-menu {
-    display: inline;
+    display: block;
 
 }
 .parent-menu-items a:link {
